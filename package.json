@@ -1,9 +1,9 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "programmers-notes",
   "version": "1.0.0",
   "private": true,
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
+  "description": "Notes for self reference.",
+  "author": "Kaushik Roy <kaushikrroy@gmail.com>",
   "homepage": "http://mademistakes.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
