@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Factorial Again!"
+title: "Notes on Factorial Again!"
 modified:
 categories: articles
-excerpt: "The famous factorial program in Java and Scala."
+excerpt: "The famous factorial program in Java and Scala. :P"
 tags: []
 image:
   feature:
