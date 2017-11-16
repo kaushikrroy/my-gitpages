@@ -5,7 +5,7 @@ description: "Notes on common problems in Java and Scala as well!"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://github.com/kaushikrroy/my-gitpages/tree/master"
+url: "https://raw.githubusercontent.com/kaushikrroy/my-gitpages/master"
 feed:
   path: atom.xml
 
