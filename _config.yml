@@ -1,0 +1,63 @@
+# Site wide configuration
+
+title: "Programmer's Notes"
+description: "Notes on common problems in Java and Scala as well!"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: "https://mmistakes.github.io/skinny-bones-jekyll"
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+# plugins: [jekyll-sitemap, jekyll-gist, jekyll-feed]
+plugins: [jekyll-sitemap, jekyll-gist]
+
+
+# Site owner
+owner:
+  name: "Kaushik Roy"
+  web: "https://github.com/kaushikrroy"
+  twitter: "kaushikrroy"
+  bio: "Just another boring, lazy, implicit programmer."
+  #avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  google:
+    plus: "+kaushikrroy"
+    #ad-client: "ca-pub-7328585512091257"
+    #ad-slot: 3049671934
+  disqus-shortname:
+
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

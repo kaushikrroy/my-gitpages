@@ -1,0 +1,21 @@
+# Site navigation links
+
+# - title: Getting Started
+#  url: /getting-started/
+#  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+#  image: 400x250.gif
+
+- title: Articles
+  url: /articles/
+  excerpt: "Notes on common problems in Java and Scala."
+  image: 400x250.gif
+
+- title: Media
+  url: /media/
+  excerpt: "Some pencil sketches, paintings and artwork!"
+  image: 400x250.gif
+
+- title: About
+  url: /about/
+  excerpt: "A lazy, implicit programmer zzzz..."
+  image: 400x250.gif
