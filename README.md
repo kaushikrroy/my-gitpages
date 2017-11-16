@@ -5,4 +5,5 @@ Personal notes on some common programs asked in interviews and other competitive
 
 These notes no way depict the superiority of either of the programming languages used. I don't have the authority to do so.
 
+Thanks to [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll)
 ---
